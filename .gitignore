@@ -1,0 +1,53 @@
+# Maven build output
+target/
+*.jar
+*.war
+*.ear
+*.class
+
+# Logs
+*.log
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+
+# Eclipse
+.project
+.classpath
+.settings/
+*.launch
+
+# NetBeans
+nbproject/private/
+nbbuild/
+build/
+nbbuild/
+*.nb-gradle
+*.nbm
+*.nbh
+*.nbe
+*.nbp
+
+# VS Code
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Maven wrapper
+.mvn/wrapper/mvn-wrapper.jar
+.mvn/wrapper/mvn-wrapper.properties
+
+# Generated files
+*.orig
+*.swp
+
+# Temporary files
+*.tmp
+*.bak
+
+# Other
+*.env
